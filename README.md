@@ -1,8 +1,20 @@
-# MODUL LATIHAN PEMROGRAMAN WEB2
-## Modul 1_2 PHP DASAR DAN FORUM INPUT
-### Latihan 2 PHP DASAR
+# Modul_PWeb2
+Modul Praktikum PEMOGRAMAN WEB 2
+
+NAMA           : Alfaza putra adjie ariefiansyah
+
+NIM            : 312210512
+
+KELAS          : TI.22.A.5
+
+DOSEN PENGAMPU : AGUNG NUGROHO S.KOM., M.KOM
+
+MATA KULIAH    : PEMOGRAMAN WEB 2
+
+## Lab2 PHP_DASAR
 Script untuk file bernama `php_dasar.php` :
 ```
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -33,6 +45,7 @@ Script untuk file bernama `php_dasar.php` :
 </body>
 </html>
 ```
+
 ### Outputnya :
 
 ![Screenshot 2024-04-22 143154](https://github.com/VivieZuliani/ModulWeb2_VivieZulianiE/assets/130271255/d6f0dbb2-411a-4cc4-ae60-487311d7164d)
@@ -145,11 +158,13 @@ Script untuk file `Form_Input.php` :
 
 ### Outputnya : 
 
-![Screenshot 2024-03-25 221756](https://github.com/VivieZuliani/ModulWeb2_VivieZulianiE/assets/130271255/bb118edd-352f-4b6e-91bf-0d8638bddf9d)
+![Screenshot 2024-03-25 221756](https://github.com/alfaza-putra/Modul_PWeb2/assets/129705943/6fe33084-a0d5-402d-b4de-f9307756a650)
+
 
 > Pada gambar pertama, masih terdapat undefine dikarenakan user belum  mengetikkan nama Abdullah ke dalam form input. Setelah memasukkan nama Abdullah, maka form input baru terdefinisi
 
-![Screenshot 2024-03-25 221815](https://github.com/VivieZuliani/ModulWeb2_VivieZulianiE/assets/130271255/7ccfc3a2-9aa2-4162-b7da-3517baead969)
+![Screenshot 2024-03-25 221815](https://github.com/alfaza-putra/Modul_PWeb2/assets/129705943/321d7272-5b08-4ca1-8767-de504d6376ec)
+
 
 
 ![Screenshot 2024-04-22 143558](https://github.com/VivieZuliani/ModulWeb2_VivieZulianiE/assets/130271255/9948588f-7472-4ec8-b9f9-2358757affd3)
@@ -159,7 +174,7 @@ Script untuk file `Form_Input.php` :
 ![Screenshot 2024-04-22 144250](https://github.com/VivieZuliani/ModulWeb2_VivieZulianiE/assets/130271255/95664297-84c4-452a-9b8e-a1df8cef7523)
 
 > Masukkan tabel
-![Screenshot 2024-04-22 144604](https://github.com/VivieZuliani/ModulWeb2_VivieZulianiE/assets/130271255/ba5def76-4169-479c-bdff-4646407c21d4)
+![Screenshot 2024-04-22 144604](https://github.com/alfaza-putra/Modul_PWeb2/assets/129705943/61c2109c-48ed-4701-802f-88e284c902e6)
 
 > Tampilan di cmd
 ![Screenshot 2024-04-22 152937](https://github.com/VivieZuliani/ModulWeb2_VivieZulianiE/assets/130271255/9b1af2fe-70ef-436a-a4e3-96c5d9b7a2ef)
@@ -754,13 +769,6 @@ class Database {
 }
 ?>
 ```
-
 #### Outputnya :
 
-![Screenshot 2024-04-26 181042](https://github.com/VivieZuliani/ModulWeb2_VivieZulianiE/assets/130271255/54e168d4-a563-44c7-aebf-d0466b93a3a3)
-
-
-
-
-
-# Modul_Web2
+![5](https://github.com/alfaza-putra/Modul_Web2/assets/129705943/0dace00f-504c-4e28-abfe-a9ca0497c6c9)
